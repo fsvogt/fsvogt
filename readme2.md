@@ -1,8 +1,14 @@
 readme 02 
 =========
 
+[<back]( README.md )
+
 linkintern
 
-html...iframes ...ohoh...
+html...iframes ...ohoh...( disabled is ok ! )
 
-[back]( https://github.com/fsvogt/fsvogt/blob/cdd7f6e037dd0c7fca72a84c41db00773f058947/README.md )
+html link <a href="README.md">This is a link</a>.
+
+
+
+
