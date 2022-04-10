@@ -8,8 +8,11 @@
 MainTopic
 =========
 
-Some intro....
-[readme2.md](https://github.com/fsvogt/fsvogt/blob/cdd7f6e037dd0c7fca72a84c41db00773f058947/readme2.md)
+Some intro....[readme2.md](https://github.com/fsvogt/fsvogt/blob/cdd7f6e037dd0c7fca72a84c41db00773f058947/readme2.md)
+
+kurz [readme2.md](readme2.md)
+
+
 
   Coding 
   -----------
