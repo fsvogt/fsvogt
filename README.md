@@ -4,9 +4,15 @@
 - 💞️ and also Testing Git in msys on Win10PC....
 - 📫 How to reach me ...fsv@fsvogt.de
 
-= 
+ 
 MainTopic
+=========
 
+  Subtopic A
+  -----------
+
+  Subtopic B
+  ----------
 
 <!---
 fsvogt/fsvogt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
