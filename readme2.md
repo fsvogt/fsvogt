@@ -5,4 +5,4 @@ linkintern
 
 html...iframes ...ohoh...
 
-[back : ] (https://github.com/fsvogt/README.md)
+[back](/fsvogt/READDME.md)
