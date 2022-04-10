@@ -8,8 +8,28 @@
 MainTopic
 =========
 
-  Subtopic A
+  Coding 
   -----------
+  
+   * Android
+     * Studio IDE DevOp
+       * Projects
+         *  1
+         *  2
+         *  3
+   * Arduino
+       * [Studio IDE DevOp](http://www.fsvogt.de/projects.html)
+         * ArduinoIDE
+         * homebreew Pascal fpc avr-embedded 
+       * Projects
+         *  1
+         *  2
+         *  3
+
+   * Basic
+   * C,C++,C#,
+   * Delphi
+   * 
 
   Subtopic B
   ----------
