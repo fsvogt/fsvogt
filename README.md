@@ -40,6 +40,7 @@ shortfileref [readme2.md](readme2.md)
   Subtopic B
   ----------
   
+	* from handy
 
 <!---
 fsvogt/fsvogt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
