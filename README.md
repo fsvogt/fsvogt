@@ -24,7 +24,7 @@ shortfileref [readme2.md](readme2.md)
          *  2
          *  3
    * Arduino
-       * [Studio IDE DevOp](http://www.fsvogt.de/projects.html)
+       * Studio IDE DevOp [->](http://www.fsvogt.de/projects.html)
          * ArduinoIDE
          * homebreew Pascal fpc avr-embedded 
        * Projects
@@ -40,7 +40,7 @@ shortfileref [readme2.md](readme2.md)
   Subtopic B
   ----------
   
-	* from handy
+   * from handy
 
 <!---
 fsvogt/fsvogt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
