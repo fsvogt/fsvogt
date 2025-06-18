@@ -3,7 +3,7 @@ readme 02
 
 [<back]( README.md )
 
-linkintern
+linkintern bb
 
 html...iframes ...ohoh...( disabled is ok ! )
 
